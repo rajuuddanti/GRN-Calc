@@ -1,0 +1,49 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mahamart.vegcost"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:2:5-15:19
+12        android:allowBackup="true"
+12-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:3:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:4:9-43
+16        android:label="CP Calculator"
+16-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:6:9-38
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:5:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:7:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:8:9-40
+21        <activity
+21-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:9:9-14:20
+22            android:name="com.mahamart.vegcost.MainActivity"
+22-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:9:19-47
+23            android:exported="true"
+23-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:9:48-71
+24            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" >
+24-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:9:72-129
+25            <intent-filter>
+25-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:10:13-13:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:11:17-69
+26-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:11:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:12:17-77
+28-->C:\Users\uddan\Downloads\GRN_Veg_Cost_Full_Android_Project\MahaMartVegCostCalculator\app\src\main\AndroidManifest.xml:12:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

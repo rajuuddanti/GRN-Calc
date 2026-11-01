@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mahamart.vegcost.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\uddan\\Downloads\\GRN_Veg_Cost_Full_Android_Project\\MahaMartVegCostCalculator\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "11",
+                        "startOffsets": "50",
+                        "endColumns": "63",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\uddan\\Downloads\\GRN_Veg_Cost_Full_Android_Project\\MahaMartVegCostCalculator\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "466"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "562"
+                    }
+                }
+            ]
+        }
+    ]
+}

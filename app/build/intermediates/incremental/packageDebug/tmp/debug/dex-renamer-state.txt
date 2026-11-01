@@ -1,0 +1,7 @@
+#Sun Oct 11 15:00:40 IST 2026
+base.0=C\:\\Users\\uddan\\Downloads\\GRN_Veg_Cost_Full_Android_Project\\MahaMartVegCostCalculator\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\uddan\\Downloads\\GRN_Veg_Cost_Full_Android_Project\\MahaMartVegCostCalculator\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+path.0=0/classes.dex
+path.1=8/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
